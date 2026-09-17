@@ -115,20 +115,26 @@ A UNECE disponibiliza o GTR No. 20, dedicado à segurança de veículos elétric
 
 ## Fonte 3 — Thelen et al. — Probabilistic machine learning for battery health diagnostics and prognostics
 
-Artigo científico publicado em 2024 na revista *npj Materials Sustainability*.
+Artigo científico publicado em 2024 na revista npj Materials Sustainability.
+
+Autores: Adam Thelen, Xun Huan, Noah Paulson, Simona Onori, Zhen Hu e Chao Hu.
 
 **Tema utilizado no estudo:**
 
-* diagnóstico de baterias
-* degradação
-* prognóstico
-* Machine Learning
-* incerteza das previsões
-* saúde da bateria
+* diagnóstico de baterias;
+* prognóstico;
+* degradação de baterias;
+* State of Health (SOH);
+* Machine Learning;
+* previsão de vida útil;
+* incerteza das previsões.
 
-Fonte:
 
-https://www.osti.gov/biblio/2370016
+Artigo completo:
+https://www.nature.com/articles/s44296-024-00011-1
+
+DOI:
+https://doi.org/10.1038/s44296-024-00011-1
 
 O estudo discute como métodos de Machine Learning podem ser utilizados para diagnóstico e prognóstico da saúde de baterias de íons de lítio e destaca a influência da variabilidade entre células e das condições de operação.
 
