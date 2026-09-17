@@ -262,23 +262,8 @@ Foram adicionados contexto, fontes, escopo e formato de resposta.
 
 ---
 
-### Problema 2 — Respostas genéricas
 
-Quando a pergunta não especificava as fontes, a resposta poderia apresentar conceitos que não estavam diretamente relacionados aos documentos selecionados.
-
-### Solução
-
-Utilizar instruções como:
-
-> Utilize somente as fontes fornecidas.
-
-E:
-
-> Identifique qual fonte sustenta cada afirmação importante.
-
----
-
-### Problema 3 — Excesso de conteúdo
+### Problema 2 — Excesso de conteúdo
 
 Perguntas muito abrangentes produziram respostas longas e difíceis de revisar.
 
@@ -296,7 +281,7 @@ Dividir o estudo em módulos:
 
 ---
 
-### Problema 4 — Necessidade de pensamento crítico
+### Problema 3 — Necessidade de pensamento crítico
 
 Uma resposta produzida por IA não deve ser automaticamente considerada verdadeira.
 
